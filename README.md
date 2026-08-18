@@ -210,9 +210,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [Vedant Sachin Nagare](https://github.com/VedantSachinNagare)
-- LinkedIn: [Vedant Nagare](https://www.linkedin.com/in/vedant-nagare-99a5b825a/)
+**Tejas N K**
+- GitHub: [Tejas7899](https://github.com/Tejas7899)
+- LinkedIn: [tejas-nk](https://www.linkedin.com/in/tejas-nk)
 
 ## 🙏 Acknowledgments
 
@@ -223,7 +223,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-If you have any questions or need help, please open an issue or contact me at vedantnagare25@gmail.com
+If you have any questions or need help, please open an issue or contact me at tejas7892250557@gmail.com
 
 ---
 
